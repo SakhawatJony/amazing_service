@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.main-service{
+    text-align: center;
+    margin: 60px;   
+}
+
+.middle-service ,.second-service{
+   display: flex;
+
+}
+ i{
+    color: #fab005;
+    font-size: 35px;
+}
+.simple-service{
+    text-align: center;
+    height: 165px;
+    width: 235px;
+    background-color:#ffff ;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 20px 30px;
+    box-shadow: 5px 5px 5px 2px wheat;
+    
+}
+
